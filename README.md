@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anshul!</h1>
-Hello, my name is Anshul! I would like to share with you a few projects that I have commenced since embarking on my cloud journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing.
+I would like to share with you a few projects that I have commenced since embarking on my cloud journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing.
 <h2>👨‍💻 Projects & Hands-On's:</h2>
 
 - <b>Run Infra as Code with Jenkins:</b>
