@@ -22,8 +22,8 @@ By combining the two, you can create a robust and efficient process for managing
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]:(https://www.instagram.com/_4nshul_/)
-[linkedin]:(https://www.linkedin.com/in/anshulpardeshi/)
+[instagram]: https://www.instagram.com/_4nshul_/
+[linkedin]: https://www.linkedin.com/in/anshulpardeshi/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
