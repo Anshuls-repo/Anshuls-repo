@@ -8,28 +8,23 @@ Hello, my name is Anshul! I would like to share with you a few projects that I h
 By combining the two, you can create a robust and efficient process for managing infrastructure. Using Jenkins, you can deploy it to the cloud environment.
 
 
-- <b>AWS Service wise Hands-ons:</b>
+- <b>AWS Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Getting%20Started%20with%20AWS%20CloudFormation.docx)
+  - [EC2](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/EC2/Get%20Started%20with%20Amazon%20EC2%20Linux%20Instances.pdf)
+  - [ELB and Auto Scaling](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/ELB%20and%20Auto%20Scaling/Scaling%20the%20EC2%20Instance%20Based%20on%20Monitored%20CloudWatch%20Metrics.pdf)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>DevOps</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[instagram]: [https://www.instagram.com/joshmadakor/](https://www.instagram.com/_4nshul_/)
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/anshul-pardeshi-5253a2255/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
