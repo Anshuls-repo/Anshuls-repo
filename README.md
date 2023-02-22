@@ -9,7 +9,7 @@ By combining the two, you can create a robust and efficient process for managing
 
 
 - <b>AWS Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
-  - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Getting%20Started%20with%20AWS%20CloudFormation.docx)
+  - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
   - [EC2](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/EC2/Get%20Started%20with%20Amazon%20EC2%20Linux%20Instances.pdf)
   - [ELB and Auto Scaling](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/ELB%20and%20Auto%20Scaling/Scaling%20the%20EC2%20Instance%20Based%20on%20Monitored%20CloudWatch%20Metrics.pdf)
   - [Elastic Beanstalk](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Elastic%20Beanstalk/Elastic%20Beanstalk.pdf)
