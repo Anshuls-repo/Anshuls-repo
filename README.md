@@ -2,21 +2,13 @@
 Hello, my name is Anshul! I would like to share with you a few projects that I have commenced since embarking on my cloud journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing.
 <h2>👨‍💻 Projects & Hands-On's:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Run Infra as Code with Jenkins:</b>
+  - Infrastructure as Code (IaC) is a powerful approach to managing IT infrastructure by writing code to automate the provisioning, configuration, and deployment of resources. Jenkins, on the other hand, is a popular automation server used for continuous integration and continuous delivery (CI/CD) pipelines.
+By combining the two, you can create a robust and efficient process for managing infrastructure. Using Jenkins, you can deploy it to the cloud environment.
+  - [Run Infra as Code with Jenkins Doc](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
+
+- <b>AWS Service wise Hands-ons:</b>
+  - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Getting%20Started%20with%20AWS%20CloudFormation.docx)
 
 <h2>📺 Popular YouTube Videos</h2>
 
