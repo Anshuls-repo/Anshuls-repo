@@ -13,6 +13,7 @@ By combining the two, you can create a robust and efficient process for managing
   - [EC2](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/EC2/Get%20Started%20with%20Amazon%20EC2%20Linux%20Instances.pdf)
   - [ELB and Auto Scaling](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/ELB%20and%20Auto%20Scaling/Scaling%20the%20EC2%20Instance%20Based%20on%20Monitored%20CloudWatch%20Metrics.pdf)
   - [Elastic Beanstalk](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Elastic%20Beanstalk/Elastic%20Beanstalk.pdf)
+  - [IAM](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/IAM/IAM%20Hands-On.pdf)
 
 <h2>DevOps</h2>
 
