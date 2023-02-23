@@ -26,6 +26,8 @@ By combining the two, you can create a robust and efficient process for managing
   - [Autoscaling,ELB,Route-53 –Hands On And Case Study](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/Autoscaling%2CELB%2CRoute-53%20%E2%80%93Hands%20On%20And%20Case%20Study)
   - [Beanstalk,Lambda and OpsWork](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/Beanstalk%2CLambda%20and%20OpsWork)
   - [EC2,EFS,EBS](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/EC2%2CEFS%2CEBS)
+  - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/Cloud%20Formation)
+  - [CloudWatch and IAM](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/CloudWatch%20and%20IAM)
 <h2>∞DevOps</h2>
   
   - [Kubernetes](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/K8s)
