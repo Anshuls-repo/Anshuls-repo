@@ -44,7 +44,7 @@ By combining the two, you can create a robust and efficient process for managing
 [linkedin]: https://www.linkedin.com/in/anshulpardeshi/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anshuls-repo/Anshuls-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
