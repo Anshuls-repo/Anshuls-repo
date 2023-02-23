@@ -6,7 +6,14 @@ I would like to share with you a few projects that I have commenced since embark
   - [Run Infra as Code with Jenkins Doc](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
   - Infrastructure as Code (IaC) is a powerful approach to managing IT infrastructure by writing code to automate the provisioning, configuration, and deployment of resources. Jenkins, on the other hand, is a popular automation server used for continuous integration and continuous delivery (CI/CD) pipelines.
 By combining the two, you can create a robust and efficient process for managing infrastructure. Using Jenkins, you can deploy it to the cloud environment.
-
+ 
+- <b>Deploying a Multi-Tier Website Using AWS EC2:</b>
+  - Company ABC wants to move their product to AWS.They have the following things setup right now: 
+    1. MySQL DB 
+    2. Website (PHP) The company wants high availability on this product, therefore wants autoscaling to be enabled on this website.
+  - [Deploying a Multi-Tier Website Using AWS EC2](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Project%201%20-%20Deploying%20a%20Multi-Tier%20Website%20Using%20AWS%20EC2.pdf)
+  
+ 
 
 - <b>AWS, Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
