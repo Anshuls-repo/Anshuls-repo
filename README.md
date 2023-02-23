@@ -21,7 +21,7 @@ By combining the two, you can create a robust and efficient process for managing
   - [IAM](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/IAM/IAM%20Hands-On.pdf)
   - [Creating a CPU usage alarm](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Creating%20a%20CPU%20usage%20alarm.pdf)
   - [Amazon Elastic File System](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Getting%20started%20with%20Amazon%20Elastic%20File%20System.pdf)
-
+  - [Amazon s3](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/S3)
 <h2>∞DevOps</h2>
   
   - [Kubernetes](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/K8s)
