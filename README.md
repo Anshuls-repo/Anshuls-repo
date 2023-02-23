@@ -36,8 +36,8 @@ By combining the two, you can create a robust and efficient process for managing
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="44px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="44px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/instagram-g21ba9eec3_1280.png" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/instagram-g21ba9eec3_1280.png" />][instagram]
 
 
 [instagram]: https://www.instagram.com/_4nshul_/
