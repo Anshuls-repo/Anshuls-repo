@@ -18,7 +18,10 @@ By combining the two, you can create a robust and efficient process for managing
   - [Amazon Elastic File System](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Getting%20started%20with%20Amazon%20Elastic%20File%20System.pdf)
 
 <h2>∞DevOps</h2>
-
+  
+  - [Kubernetes](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/K8s)
+  - [Docker](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Docker)
+  - [Git](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Git)
 
 <h2> 🤳 Connect with me:</h2>
 
