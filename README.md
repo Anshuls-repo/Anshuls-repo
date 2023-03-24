@@ -11,8 +11,18 @@ By combining the two, you can create a robust and efficient process for managing
     1. MySQL DB 
     2. Website (PHP) The company wants high availability on this product, therefore wants autoscaling to be enabled on this website.
 
- 
-
+- [<b>Implementing DevOps Lifecycle:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/Project-%20DevOps.pdf) 
+  - [product is available on this GitHub link:](https://github.com/hshar/website.git)
+  - 1. Git Workflow has to be implemented 
+  - 2. Code Build should automatically be triggered once a commit is made to master branch or develop branch. If commit is made to master branch, test and          push to prod If commit is made to develop branch, just test the product, do not push to prod 
+  - 3. The Code should be containerized with the help of a Dockerfile. The Dockerfile should be built every time there is a push to Git-Hub. Use the      
+       following pre-built container for your application:
+       The code should reside in '/var/www/html' 
+  - 4. The above tasks should be defined in a Jenkins Pipeline, with the following Jobs Job 
+         Building Website Job 
+         Testing Website Job 
+         Push to Production 
+         
 - <b>AWS, Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
   - [Creating a CPU usage alarm](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Creating%20a%20CPU%20usage%20alarm.pdf)
