@@ -29,7 +29,8 @@ By combining the two, you can create a robust and efficient process for managing
  
          
 
-- <b>AWS, Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
+<h2>AWS, Service wise Hands-ons:<h2>
+  <b>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<b>
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
   - [Creating a CPU usage alarm](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Creating%20a%20CPU%20usage%20alarm.pdf)
   - [EC2](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/EC2/Get%20Started%20with%20Amazon%20EC2%20Linux%20Instances.pdf)
@@ -45,7 +46,7 @@ By combining the two, you can create a robust and efficient process for managing
   - [CloudFormation, SNS, SQS & SES](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/Cloud%20Formation)
   - [CloudWatch and IAM](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/CloudWatch%20and%20IAM)
   
-- <b>Microsoft Azure, Service wise Hands-ons:</b> 
+<h2>Microsoft Azure, Service wise Hands-ons:<h2> 
   - [Introduction To Azure](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Introduction%20To%20Azure%20Assignments%20(1))
   - [ARM-Azure-Storage](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/ARM-Azure-Storage%20(1))
   - [Azure Virtual Machines](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Azure%20Virtual%20Machines%20(1))
