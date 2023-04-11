@@ -22,6 +22,9 @@ By combining the two, you can create a robust and efficient process for managing
          Testing Website Job 
          Push to Production 
          
+ - [<b>Using Microsoft Azure Implement the below architecture for website:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/AZURE%20PROJECT.pdf) [<img align="centre" alt="Anshul | LinkedIn" width="608px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />] 
+ - 
+         
 - <b>AWS, Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
   - [Creating a CPU usage alarm](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Creating%20a%20CPU%20usage%20alarm.pdf)
@@ -47,8 +50,8 @@ By combining the two, you can create a robust and efficient process for managing
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/instagram-g21ba9eec3_1280.png" />][instagram]
+[<img align="left" alt="Anshul | LinkedIn" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />][linkedin]
+[<img align="left" alt="Anshul | Instagram" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/instagram-g21ba9eec3_1280.png" />][instagram]
 
 
 [instagram]: https://www.instagram.com/_4nshul_/
