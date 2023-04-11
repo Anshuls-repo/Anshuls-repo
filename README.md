@@ -30,7 +30,9 @@ By combining the two, you can create a robust and efficient process for managing
          
 
 <h2>AWS, Service wise Hands-ons:<h2>
-  <b>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<b>
+  
+<b>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning<b>
+  
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
   - [Creating a CPU usage alarm](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Creating%20a%20CPU%20usage%20alarm.pdf)
   - [EC2](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/EC2/Get%20Started%20with%20Amazon%20EC2%20Linux%20Instances.pdf)
