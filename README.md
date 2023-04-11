@@ -2,6 +2,26 @@
 I would like to share with you a few projects that I have commenced since embarking on my cloud journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing.
 <h2>👨‍💻 Projects & Hands-On's:</h2>
 
+- [<b>Run Infra as Code with Jenkins:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
+  - Infrastructure as Code (IaC) is a powerful approach to managing IT infrastructure by writing code to automate the provisioning, configuration, and deployment of resources. Jenkins, on the other hand, is a popular automation server used for continuous integration and continuous delivery (CI/CD) pipelines.
+By combining the two, you can create a robust and efficient process for managing infrastructure. Using Jenkins, you can deploy it to the cloud environment.
+ 
+- [<b>Deploying a Multi-Tier Website Using AWS EC2:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Project%201%20-%20Deploying%20a%20Multi-Tier%20Website%20Using%20AWS%20EC2.pdf)
+  - Company ABC wants to move their product to AWS.They have the following things setup right now: 
+    1. MySQL DB 
+    2. Website (PHP) The company wants high availability on this product, therefore wants autoscaling to be enabled on this website.
+
+- [<b>Implementing DevOps Lifecycle:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/Project-%20DevOps.pdf) 
+  -  Git Workflow has to be implemented 
+  -  Code Build should automatically be triggered once a commit is made to master branch or develop branch. If commit is made to master branch, test and          push to prod If commit is made to develop branch, just test the product, do not push to prod 
+  -  The Code should be containerized with the help of a Dockerfile. The Dockerfile should be built every time there is a push to Git-Hub. Use the      
+       following pre-built container for your application:
+       The code should reside in '/var/www/html' 
+  -  The above tasks should be defined in a Jenkins Pipeline, with the following Jobs Job 
+         Building Website Job 
+         Testing Website Job 
+         Push to Production 
+         
 - <b>AWS, Service wise Hands-ons:</b> <i/>While taking part in Intellipaat's live lectures, I completed several hands-on activities to reinforce my learning.<i/>
   - [CloudFormation](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/CloudFormation/Cloudformation%20Hands-on.pdf)
   - [Creating a CPU usage alarm](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS%20Detailed/Creating%20a%20CPU%20usage%20alarm.pdf)
@@ -17,36 +37,13 @@ I would like to share with you a few projects that I have commenced since embark
   - [EC2,EFS,EBS](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/EC2%2CEFS%2CEBS)
   - [CloudFormation, SNS, SQS & SES](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/Cloud%20Formation)
   - [CloudWatch and IAM](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/CloudWatch%20and%20IAM)
-<h3>∞ DevOps ∞</h3>
+<h2>∞ DevOps ∞</h2>
   
   - [Kubernetes](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/K8s)
   - [Docker](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Docker)
   - [Git](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Git)
   - [Jenkins](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Jenkins)
   - [Ansible](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Ansible)
-<h3>Projects</h3>
-
-  - [<b>Run Infra as Code with Jenkins:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
-  - Infrastructure as Code (IaC) is a powerful approach to managing IT infrastructure by writing code to automate the provisioning, configuration, and deployment of resources. Jenkins, on the other hand, is a popular automation server used for continuous integration and continuous delivery (CI/CD) pipelines.
-By combining the two, you can create a robust and efficient process for managing infrastructure. Using Jenkins, you can deploy it to the cloud environment.
- 
-  - [<b>Deploying a Multi-Tier Website Using AWS EC2:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Project%201%20-%20Deploying%20a%20Multi-Tier%20Website%20Using%20AWS%20EC2.pdf)
-  - Company ABC wants to move their product to AWS.They have the following things setup right now: 
-    1. MySQL DB 
-    2. Website (PHP) The company wants high availability on this product, therefore wants autoscaling to be enabled on this website.
-
-  - [<b>Implementing DevOps Lifecycle:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/Project-%20DevOps.pdf) 
-  -  Git Workflow has to be implemented 
-  -  Code Build should automatically be triggered once a commit is made to master branch or develop branch. If commit is made to master branch, test and          push to prod If commit is made to develop branch, just test the product, do not push to prod 
-  -  The Code should be containerized with the help of a Dockerfile. The Dockerfile should be built every time there is a push to Git-Hub. Use the      
-       following pre-built container for your application:
-       The code should reside in '/var/www/html' 
-  -  The above tasks should be defined in a Jenkins Pipeline, with the following Jobs Job 
-         Building Website Job 
-         Testing Website Job 
-         Push to Production 
-         
-
 
 <h2> 🤳 Connect with me:</h2>
 
