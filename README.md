@@ -24,7 +24,7 @@ By combining the two, you can create a robust and efficient process for managing
          
  - [<b>Using Microsoft Azure Implement the below architecture for website:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/AZURE%20PROJECT.pdf) 
  <p align="center">
-  <img src="[https://your-image-url.com/your-image.jpg](https://github.com/Anshuls-repo/for-assignment/blob/master/Screenshot%20(1293).png)" />
+  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/Screenshot%20(1293).png" />
 </p>
  
          
