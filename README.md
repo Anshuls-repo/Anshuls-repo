@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Anshul!       <img align="center" width="40px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner-2020-badge-220x220-1.png"></h1>
+<h1>Hi, I'm Anshul!       <img align="center" alt="Anshul | Credly" width="40px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner-2020-badge-220x220-1.png"></h1>
 
 I would like to share with you a few projects that I have commenced since embarking on my cloud and devops journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
 
@@ -86,5 +86,5 @@ By combining the two, you can create a robust and efficient process for managing
 
 [instagram]: https://www.instagram.com/_4nshul_/
 [linkedin]: https://www.linkedin.com/in/anshulpardeshi/
-
+[credly]: https://www.credly.com/badges/38cd8ace-e540-4854-a979-d779d185e6a5/public_url
 
