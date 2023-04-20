@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi, I'm Anshul!
-  [<img align="centre" alt="Anshul | Instagram" width="100px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly]</h1>
+[<img align="centre" alt="Anshul | Instagram" width="100px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly]
+[credly]: https://www.credly.com/badges/38cd8ace-e540-4854-a979-d779d185e6a5/public_url 
+</h1>
 I would like to share with you a few projects that I have commenced since embarking on my cloud and devops journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
 
 <h2>👨‍💻 Projects & Hands-On's:</h2>
