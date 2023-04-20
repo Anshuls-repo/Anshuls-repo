@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Anshul!</h1><img align="left" alt="Anshul | LinkedIn" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner-2020-badge-220x220-1.png"
+<h1>Hi, I'm Anshul!</h1><img align="left" alt="Anshul | LinkedIn" width="50px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner-2020-badge-220x220-1.png"
 I would like to share with you a few projects that I have commenced since embarking on my cloud and devops journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
+
 <h2>👨‍💻 Projects & Hands-On's:</h2>
 
 - [<b>Run Infra as Code with Jenkins:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
