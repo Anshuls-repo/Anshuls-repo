@@ -86,5 +86,5 @@ By combining the two, you can create a robust and efficient process for managing
 
 [instagram]: https://www.instagram.com/_4nshul_/
 [linkedin]: https://www.linkedin.com/in/anshulpardeshi/
-[credly]: https://www.credly.com/badges/38cd8ace-e540-4854-a979-d779d185e6a5/public_url
+[Credly]: https://www.credly.com/badges/38cd8ace-e540-4854-a979-d779d185e6a5/public_url
 
