@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Anshul!</h1>
+<h2>Hi, I'm Anshul!</h2>
 [<img align="centre" alt="Anshul | Instagram" width="100px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly]
 
 [credly]: https://www.credly.com/badges/38cd8ace-e540-4854-a979-d779d185e6a5/public_url 
