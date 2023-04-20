@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi, I'm Anshul!</h1> 
-[<img align="centre" alt="Anshul | Instagram" width="44px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner-2020-badge-220x220-1.png" />][credly]     
-
 I would like to share with you a few projects that I have commenced since embarking on my cloud and devops journey. I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
 
 <h2>👨‍💻 Projects & Hands-On's:</h2>
@@ -83,7 +81,7 @@ By combining the two, you can create a robust and efficient process for managing
 
 [<img align="left" alt="Anshul | LinkedIn" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />][linkedin]
 [<img align="left" alt="Anshul | Instagram" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/instagram-g21ba9eec3_1280.png" />][instagram]
-
+[<img align="centre" alt="Anshul | Instagram" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner-2020-badge-220x220-1.png" />][credly]
 
 [instagram]: https://www.instagram.com/_4nshul_/
 [linkedin]: https://www.linkedin.com/in/anshulpardeshi/
