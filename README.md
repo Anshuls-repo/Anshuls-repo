@@ -78,7 +78,7 @@ By combining the two, you can create a robust and efficient process for managing
   - [Git](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Git)
   - [Jenkins](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Jenkins)
   - [Ansible](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Ansible)
-  - [Terraform](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Terraform)
+  - [Terraform](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/DevOps/Terraform/CASE%20STUDY%20-TERRAFORM.pdf)
   - [Selenium](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/DevOps/Selenium/SELENIUM.pdf)
 <h2> 🤳 Connect with me:</h2>
 
