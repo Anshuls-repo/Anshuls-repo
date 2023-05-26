@@ -22,7 +22,7 @@ I would like to share with you a few projects that I have commenced since embark
 - [<b>AWS DevOps:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/AWS%20DevOps%20Project%20(1).pdf)
 
  <p align="center">
-  <img width="1000px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/Screenshot%20(185).png" />
+  <img width="700px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/Screenshot%20(185).png" />
 </p>
 
 - [<b>Run Infra as Code with Jenkins:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
