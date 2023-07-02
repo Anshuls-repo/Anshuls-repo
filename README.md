@@ -71,15 +71,6 @@ By combining the two, you can create a robust and efficient process for managing
   - [CloudFormation, SNS, SQS & SES](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/Cloud%20Formation)
   - [CloudWatch and IAM](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/AWS/CloudWatch%20and%20IAM)
   
-<h2>Microsoft Azure Hands-ons:</h2> 
-  
-  - [Introduction To Azure](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Introduction%20To%20Azure%20Assignments%20(1))
-  - [ARM-Azure-Storage](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/ARM-Azure-Storage%20(1))
-  - [Azure Virtual Machines](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Azure%20Virtual%20Machines%20(1))
-  - [Azure-App-And-Container-Services](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Azure-App-And-Container-Services)
-  - [Introduction To Azure Storage](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Introduction%20To%20Azure%20Storage)
-  
-  
 <h2>∞ DevOps ∞</h2>
   
   - [Kubernetes](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/K8s)
@@ -89,6 +80,18 @@ By combining the two, you can create a robust and efficient process for managing
   - [Ansible](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/DevOps/Ansible)
   - [Terraform](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/DevOps/Terraform/CASE%20STUDY%20-TERRAFORM.pdf)
   - [Selenium](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/DevOps/Selenium/SELENIUM.pdf)
+
+
+<h2>Microsoft Azure Hands-ons:</h2> 
+  
+  - [Introduction To Azure](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Introduction%20To%20Azure%20Assignments%20(1))
+  - [ARM-Azure-Storage](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/ARM-Azure-Storage%20(1))
+  - [Azure Virtual Machines](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Azure%20Virtual%20Machines%20(1))
+  - [Azure-App-And-Container-Services](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Azure-App-And-Container-Services)
+  - [Introduction To Azure Storage](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Azure/Introduction%20To%20Azure%20Storage)
+  
+  
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Anshul | LinkedIn" width="22px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/linked-in-g192a8b5dc_1280.png" />][linkedin]
