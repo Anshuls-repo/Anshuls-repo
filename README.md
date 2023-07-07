@@ -19,7 +19,7 @@ These are a few projects that I have commenced since embarking on my cloud and d
 
 <h2>👨‍💻 Projects & Hands-On's:</h2>
 
-- [<b>AWS DevOps:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/Projects/AWS%20DevOps%20Project%20(1).pdf)
+- [<b>AWS DevOps:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Projects/AWS%20DevOps%20Project)
 
  <p align="center">
   <img width="700px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/Screenshot%20(185).png" />
