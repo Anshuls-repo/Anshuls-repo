@@ -25,7 +25,7 @@ These are a few projects that I have commenced since embarking on my cloud and d
   <img width="700px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/Screenshot%20(185).png" />
 </p>
 
-- [<b>Run Infra as Code with Jenkins:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/blob/main/AWS/Projects/Run%20Infra%20as%20Code%20with%20Jenkins.pdf)
+- [<b>Run Infra as Code with Jenkins:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Projects/Run%20Infra%20as%20Code%20with%20Jenkins)
   - Infrastructure as Code (IaC) is a powerful approach to managing IT infrastructure by writing code to automate the provisioning, configuration, and deployment of resources. Jenkins, on the other hand, is a popular automation server used for continuous integration and continuous delivery (CI/CD) pipelines.
 By combining the two, you can create a robust and efficient process for managing infrastructure. Using Jenkins, you can deploy it to the cloud environment.
  <p align="center">
