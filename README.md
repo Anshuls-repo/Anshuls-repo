@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   [<img align="left" alt="Anshul | credly" width="70px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly]</h1>
 These are a few projects that I have commenced since embarking on my cloud and devops journey.  I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
 
-<h2>👨‍💻 Projects & Hands-On's:</h2>
+<h2>👨‍💻 Projects & Hands-On's:</h2> (Click on The project Topic to Explore it with detailed step-by-step procedures)
 
 - [<b>AWS DevOps SDLC:</b>](https://github.com/Anshuls-repo/Works-Projects-Hands-on/tree/main/Projects/AWS%20DevOps%20Project)
 
