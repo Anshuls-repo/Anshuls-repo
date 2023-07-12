@@ -103,6 +103,6 @@ By combining the two, you can create a robust and efficient process for managing
 
 [instagram]: https://www.instagram.com/_4nshul_/
 [linkedin]: https://www.linkedin.com/in/anshulpardeshi/
-[credly]: https://www.credly.com/badges/38cd8ace-e540-4854-a979-d779d185e6a5/public_url
-[credly2]: https://www.credly.com/badges/8fb8461b-599e-408e-970f-49511f910ef8/public_url
+[credly]: https://www.credly.com/users/anshul-pardeshi.68c7247b
+
 
