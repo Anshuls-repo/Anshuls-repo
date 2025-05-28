@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Your Heading -->
-<h1>Hi, I'm Anshul!</h1>
-
 <h1>
   Hi, I'm Anshul!
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin-bottom: 10px;">
