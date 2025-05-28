@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 <!-- Wrapper with flexbox -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- Heading -->
+  
+  <!-- The header text -->
   <h1 style="margin: 0;">Hi, I'm Anshul!</h1>
 
-  <!-- Badges aligned right -->
+  <!-- Badges on the right -->
   <div style="display: flex; gap: 8px;">
     <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" alt="AWS Cloud Quest" width="30px" />
     <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="30px" />
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   </div>
 
 </div>
+
 
 
   [<img align="left" alt="Anshul | credly" width="70px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly] </h1>
