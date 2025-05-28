@@ -19,9 +19,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" alt="AWS SAA" width="30px" />
   <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" alt="RHCSA Badge" width="30px" style="margin-top: 1px;" />
 </div>
+
+<!-- Your Heading -->
+<h1 style="margin-top: 0;">Hi, I'm Anshul!</h1>
+
 <h1>
   Hi, I'm Anshul!
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin-bottom: 10px;">
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin-top: 10px;">
   <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" alt="AWS Cloud Quest" width="30px" />
   <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="30px" />
   <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" alt="AWS SAA" width="30px" />
