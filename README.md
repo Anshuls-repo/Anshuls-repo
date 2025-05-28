@@ -17,7 +17,9 @@ Here are some ideas to get you started:
   <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" />
   <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" />
   <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" />
-  <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" />
+  <img align="right" alt="RHCSA Badge" width="30px"
+     style="margin-left: 5px; vertical-align: middle; margin-top: -4px; position: relative; top: -2px;"
+     src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" />
 </h1>
 
   [<img align="left" alt="Anshul | credly" width="70px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly] </h1>
