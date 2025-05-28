@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Heading with badges aligned to the right -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
   <h1 style="margin: 0;">Hi, I'm Anshul!</h1>
     <img align="right" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" alt="AWS Cloud Quest" width="30px" />
     <img align="right" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="30px" />
     <img align="right" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" alt="AWS SAA" width="30px" />
     <img align="right" src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" alt="RHCSA Badge" width="30px" />
-</div>
+
 
 These are a few projects that I have commenced since embarking on my cloud and devops journey.  I believe that these projects have helped me to develop my skills and knowledge in this exciting field, and I am eager to continue learning and growing in the world of cloud computing and DevOps.
 
