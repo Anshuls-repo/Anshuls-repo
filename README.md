@@ -12,25 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Badge Row with Flexbox -->
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin-bottom: 10px;">
-  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" alt="AWS Cloud Quest" width="30px" />
-  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="30px" />
-  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" alt="AWS SAA" width="30px" />
-  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" alt="RHCSA Badge" width="30px" style="margin-top: 1px;" />
-</div>
 
 <!-- Your Heading -->
 <h1>Hi, I'm Anshul!</h1>
 
 <h1>
   Hi, I'm Anshul!
-  <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" />
-  <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" />
-  <img align="right" alt="Anshul | credly" width="30px" style="margin-left: 5px; vertical-align: middle;" src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" />
-  <img align="right" alt="RHCSA Badge" width="30px"
-     style="margin-left: 5px; vertical-align: middle; margin-top: -4px; position: relative; top: -2px;"
-     src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" />
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin-bottom: 10px;">
+  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-cloud-quest-solutions-architect%20(1).png" alt="AWS Cloud Quest" width="30px" />
+  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="30px" />
+  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/aws-saa.png" alt="AWS SAA" width="30px" />
+  <img src="https://github.com/Anshuls-repo/for-assignment/blob/master/rhcsa2-removebg-preview.png" alt="RHCSA Badge" width="30px" style="margin-top: 1px;" />
+</div>
 </h1>
 
   [<img align="left" alt="Anshul | credly" width="70px" src="https://github.com/Anshuls-repo/for-assignment/blob/master/NicePng_aws-logo-png_2467323%20(1).png" />][credly] </h1>
